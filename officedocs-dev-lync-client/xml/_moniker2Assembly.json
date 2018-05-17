@@ -1,0 +1,11 @@
+{
+  "dependencies": [
+    "microsoft.lync.utilities",
+    "Microsoft.Office.Uc",
+    "System.Core",
+    "System.Windows.Browser"
+  ],
+  "lync-client": [
+    "Microsoft.Lync.Model"
+  ]
+}
