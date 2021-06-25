@@ -49,7 +49,9 @@
       "ms.topic": "reference",
       "audience": "developer",
       "ms.reviewer": "",
+      "ms.suite": "office",
       "ms.prod": "lync",
+      "products": ["https://authoring-docs-microsoft.poolparty.biz/devrel/984cfedc-c2c8-42e0-b1fc-937ec89b538f"],
       "ms.technology": "sdk",
       "ms.tgt_pltfrm": "dotnet",
       "apiPlatform": "dotnet"
@@ -61,9 +63,6 @@
     },
     "template": [],
     "dest": "_site",
-    "xref": [
-      "_zip/msdn.4.5.2.zip"
-    ],
     "lruSize": 0
   }
 }
