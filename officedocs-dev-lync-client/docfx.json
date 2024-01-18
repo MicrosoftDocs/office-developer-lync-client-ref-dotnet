@@ -39,6 +39,8 @@
       ]
     },
     "globalMetadata": {
+      "ms.subservice": "sdk",
+      "ms.service": "lync",
       "feedback_system": "Standard",
       "apiPlatform": "dotnet",
       "breadcrumb_path": "~/breadcrumb/toc.yml",
@@ -51,9 +53,7 @@
       "audience": "developer",
       "ms.reviewer": "",
       "ms.suite": "office",
-      "ms.prod": "lync",
       "products": ["https://authoring-docs-microsoft.poolparty.biz/devrel/984cfedc-c2c8-42e0-b1fc-937ec89b538f"],
-      "ms.technology": "sdk",
       "ms.tgt_pltfrm": "dotnet",
       "apiPlatform": "dotnet"
     },
